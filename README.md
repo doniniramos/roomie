@@ -1,2 +1,2 @@
 # roomie
-App to manage Roomie
+App to manage Roomates
